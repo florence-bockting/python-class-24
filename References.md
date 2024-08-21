@@ -24,6 +24,6 @@
 + [10 Python Loop Exercises with Solutions](https://learnpython.com/blog/python-loop-exercises/)
 + [PyNative: Python Classes and Objects Exercises](https://pynative.com/python-object-oriented-programming-oop-exercise/#h-oop-exercise-1-create-a-class-with-instance-attributes)
 + [CodeSolid: Practice Exercises for Python Classes and Objects](https://codesolid.github.io/exercises/PythonClassesExercises.html)
-+ [PyNative: Python List Exercise with Solutions](https://pynative.com/python-list-exercise-with-solutions/
-+ [PyNative: Python String Exercise](https://pynative.com/python-string-exercise/
-+ [PyNative: Python Tuple Exercise with Solutions](https://pynative.com/python-tuple-exercise-with-solutions/
++ [PyNative: Python List Exercise with Solutions](https://pynative.com/python-list-exercise-with-solutions/)
++ [PyNative: Python String Exercise](https://pynative.com/python-string-exercise/)
++ [PyNative: Python Tuple Exercise with Solutions](https://pynative.com/python-tuple-exercise-with-solutions/)
