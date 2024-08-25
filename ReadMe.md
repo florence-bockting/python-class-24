@@ -24,8 +24,8 @@ This online course provides an introduction into Python for Bachelor and Master 
 |  |  |  |  |  |
 | Data structures II                                    | **Dictionaries**<br>    - some general notes<br>    - usage of `in` for dictionaries<br>    - looping and dictionaries<br>- Dictionaries and lists<br>    - Accumulating a list  | data-structures2  |             | 26.08. |
 | Classes                                         | - class definition<br> - Instantiation \& calling<br> - instance vs. class variables<br> - inheritance | classes-functions  | exercises-classes                  | 26.08. |
-| Spyder IDE  |  |  |  |  |
-| Python Packaging  | - motivation<br>- python packaging with `hatch`<br>- configuration of `hatch`<br>- directory structure<br>- package installation<br>  | python-packaging |  | 26.08. |
+| Spyder IDE  | - core panes<br> - toolbar<br> - getting started<br> - customize Spyder<br> - first modules | intro-spyder |  | 26.08. |
+| Python Packaging  | - motivation<br>- python packaging with `hatch`<br>- configuration of `hatch`<br>- directory structure<br>- package installation<br>- import your package<br>- create a git repo of your package  | python-packaging |  | 26.08. |
 |  |  |  |  |  |
 | Data wrangling with pandas                      | - DataFrame<br>- Basic operations<br>- loading, printing, saving DataFrames<br>- Select&Filter<br>- Aggregate \& group-by<br>- reshaping: sorting, pivoting  | intro-pandas  |     | TBA |
 | Data visualization with pyplot and seaborn      | **Pyplot**<br>- figures<br>- create new figure<br>- indexing subplots<br>- properties of axes<br>- working with data<br>**Seaborn**<br>- relational data<br>- distributions<br>- categorical data  | plotting  |     | TBA |
