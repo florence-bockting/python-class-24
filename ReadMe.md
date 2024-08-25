@@ -8,7 +8,7 @@ This online course provides an introduction into Python for Bachelor and Master 
 + Submission Project Work: September 30, 2024
 
 ## Final project
-+ see markdown final-project.md
++ see markdown `final-project.md`
 
 ## Course plan (will be updated continuously)
 | Topic                                                 | Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | course material       | Exercises                 | Day    |
