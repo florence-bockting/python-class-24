@@ -7,10 +7,6 @@ full_notebooks/intro-spyder.ipynb
 full_notebooks/plotting.ipynb
 full_notebooks/python-packaging.ipynb
 
-student_exercises/solutions/control_flows.ipynb
-student_exercises/solutions/data-structures.ipynb
 student_exercises/solutions/classes.ipynb
 
 **/.ipynb_checkpoints
-
-mypackage/
