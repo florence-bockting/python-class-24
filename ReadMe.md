@@ -27,8 +27,8 @@ This online course provides an introduction into Python for Bachelor and Master 
 | Spyder IDE  | - core panes<br> - toolbar<br> - getting started<br> - customize Spyder<br> - first modules | intro-spyder |  | 26.08. |
 | Python Packaging  | - motivation<br>- python packaging with `hatch`<br>- configuration of `hatch`<br>- directory structure<br>- package installation<br>- import your package<br>- create a git repo of your package  | python-packaging |  | 26.08. |
 |  |  |  |  |  |
-| Data wrangling with pandas                      | - DataFrame<br>- Basic operations<br>- loading, printing, saving DataFrames<br>- Select&Filter<br>- Aggregate \& group-by<br>- reshaping: sorting, pivoting  | intro-pandas  |     | TBA |
-| Data visualization with pyplot and seaborn      | **Pyplot**<br>- figures<br>- create new figure<br>- indexing subplots<br>- properties of axes<br>- working with data<br>**Seaborn**<br>- relational data<br>- distributions<br>- categorical data  | plotting  |     | TBA |
+| Data wrangling with pandas                      | - DataFrame<br>- Basic operations<br>- loading, printing, saving DataFrames<br>- Select&Filter<br>- Aggregate \& group-by<br>- reshaping: sorting, pivoting  | intro-pandas  |     | 27.08. |
+| Data visualization with pyplot and seaborn      | **Pyplot**<br>- figures<br>- create new figure<br>- indexing subplots<br>- properties of axes<br>- working with data<br>**Seaborn**<br>- relational data<br>- distributions<br>- categorical data  | plotting  |     | 27.08. |
 | Scientific computing with numpy      | - arrays<br>- concatenation and stacking<br>- indexing<br>- adding dimensions<br>- basic operations<br>- broadcasting<br>- additional useful operations<br>- generating random numbers<br>- getting help  | intro-numpy  |     | TBA |
 | Version control with git                          | - Motivation<br>- Initialize a repository<br>- A first basic workflow in git<br>- Commit history<br>- Readme file<br>- Restore a deleted file  | version-control (03)  |                     | TBA |
 |  |  |  |  |  |
