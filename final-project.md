@@ -9,8 +9,8 @@ The goal of the project work is to use your learned programming skills for solvi
 ## Organisation of the project work:
 + project is done in groups of 1-3 people (please indicate the groups also in Moodle)
 + you pick a topic that is of your interest (e.g., implementing an algorithm, analyzing and visualizing a data set, etc.)
-+ submission deadline of the project is September 30, 2024
-+ project can be written in German or English
++ submission deadline of the project is March 31, 2025
++ course language is English
   
 **Some ideas about possible projects:**
 + you can analyse a data set as part of your project incl. data wrangling, data cleaning, data analysis, data visualization, …
@@ -30,9 +30,10 @@ The project should include the following aspects:
 ||                                                                                                              | \- Data types/structures (lists, dictionaries, vectors, strings, etc.).                                                                      |
 ||                                                                                                              | \- Define 2-3 classes with several functions | 
 ||                                                                                                              | \- At least one function should visualize your data (e.g., using pyplot, seaborn)
-|4| `Docstring` for your functions, classes                                                                     | at least description of the goal of each function                      |
-|5| `Comments` in your Code                                                                                     | each "concept" (equivalent to one or more lines of code) should be accompanied by a comment                                                  |
-|6| Create a `tutorial` with Jupyter Notebook                                                                   | describe your package in detail and showcase each function. Your tutorial should incl. at least:                         |
+|4| `Assertion` checks for input & basic workflows                                                              | at least validity check of your function arguments                |
+|5| `Docstring` for your functions, classes                                                                     | at least description of the goal of each function                      |
+|6| `Comments` in your Code                                                                                     | each "concept" (equivalent to one or more lines of code) should be accompanied by a comment                                                  |
+|7| Create a `tutorial` with Jupyter Notebook                                                                   | describe your package in detail and showcase each function. Your tutorial should incl. at least:                         |
 ||                                                                                                              | \- Markdown blocks in which you explain the problem and each function in words                         |
 ||                                                                                                              | \- Code blocks in which you import your package and call its functions                                                                 |
 
@@ -51,7 +52,7 @@ root_directory
 ├── LICENSE.txt            # Select a licence 
 ├── pyproject.toml         # Specify version of the build tool you need to correctly build your pip package in your virtual environment
 ├── README.md              # Create a ReadME including information about your project and at least: Installation, license, and usage
-└── TUTORIAL.md            # Create a Tutorial in which your describe and showcase/call your package and each function 			 
+└── TUTORIAL.ipynb         # Create a Tutorial in which your describe and showcase your package and each function based on an example		 
 
 ```
 
@@ -64,10 +65,10 @@ root_directory
 
 ## How to hand-in the project?
 
-+ The submission deadline of the project is *September 30, 2024*
-+ Send me the link to your GitHub repo via slack or mail
-+ if you don't want to make your repo public, you can invite me as collaborator in GitHub
-+ if you make your repo public, you can simply send me the link to your GitHub repo via slack/mail and I will fork your repo
++ The submission deadline of the project is *March 31, 2025*
++ Share your GitHub repo with me (one repo per group)
+  + if you don't want to make your repo public: invite me as collaborator in GitHub
+  + if you make your repo public: send me the link to your GitHub repo via Moodle; I will fork your repo
 + Grading will be based on the version of your project after the submission deadline
 + Please let me know if you need a grade before the submission deadline 
 
