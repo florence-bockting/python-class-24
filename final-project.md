@@ -7,7 +7,7 @@ The goal of the project work is to use your learned programming skills for solvi
 -   It is not necessary for the package to generalize across multiple datasets or algorithms. It is sufficient if the functions work for a specific dataset/ algorithm.
 
 ## Organisation of the project work:
-+ project is done in groups of 1-3 people (please indicate the groups also in Moodle)
++ project is done in groups of ~3 people (please indicate the groups also in Moodle)
 + you pick a topic that is of your interest (e.g., implementing an algorithm, analyzing and visualizing a data set, etc.)
 + submission deadline of the project is March 31, 2025
 + course language is English
