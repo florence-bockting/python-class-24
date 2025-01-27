@@ -7,9 +7,11 @@ The goal of the project work is to use your learned programming skills for solvi
 -   It is not necessary for the package to generalize across multiple datasets or algorithms. It is sufficient if the functions work for a specific dataset/ algorithm.
 
 ## Organisation of the project work:
-+ project is done in groups of ~3 people (please indicate the groups also in Moodle)
-+ you pick a topic that is of your interest (e.g., implementing an algorithm, analyzing and visualizing a data set, etc.)
-+ submission deadline of the project is March 31, 2025
++ project is done in groups
+  + ~3 people
+  + select a group in Moodle (group selection in Moodle is required for submission)
++ pick a topic that is of your interest (e.g., implementing an algorithm, analyzing and visualizing a data set, etc.)
++ submission deadline of the project is March 31, 2025 (see also section [How to hand-in the project](#how-to-hand-in-the-project))
 + course language is English
   
 **Some ideas about possible projects:**
@@ -66,9 +68,10 @@ root_directory
 ## How to hand-in the project?
 
 + The submission deadline of the project is *March 31, 2025*
-+ Share your GitHub repo with me (one repo per group)
-  + if you don't want to make your repo public: invite me as collaborator in GitHub
-  + if you make your repo public: send me the link to your GitHub repo via Moodle; I will fork your repo
-+ Grading will be based on the version of your project after the submission deadline
-+ Please let me know if you need a grade before the submission deadline 
++ Share your GitHub repository with me via Moodle:
+  + if you *don't* want to make your repo *public*: invite me as collaborator in GitHub AND submit the link to your GitHub repository via the corresponding tool in Moodle
+  + if you make your repo *public*: submit the link to your GitHub repository via the corresponding tool in Moodle
++ based on your provided link, I will fork your repository after the submission deadline
++ grading will be based on the version of your project after the submission deadline
++ please let me know if you need a grade before the submission deadline
 
