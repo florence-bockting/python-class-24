@@ -1,11 +1,11 @@
 ## Course: General info
-This online course provides an introduction into Python for Bachelor and Master students at the University of Dortmund and introduces several tools to enable reproducible and reliable programming, including version control with git and collaborative programming via GitHub. By the end of the course, students should be capable of working on a project using Python and independently acquiring new Python knowledge.
+This online course provides an introduction into the programming language *Python* for students at the University of Dortmund. The course introduces several tools to enable reproducible and reliable programming, including version control with git and collaborative programming via GitHub. By the end of the course, students should be capable of working on a project using Python and independently acquiring new Python knowledge.
 
-+ Start Date: Thursday, August 22, 2024
-+ End Date: Thursday, August 29, 2024
-+ Time: 9:00-12:00 & 13:30-15/16:00 
-+ Online Course: Zoom Link was provided in extra e-mail
-+ Submission Project Work: September 30, 2024
++ Start Date: Thursday, February 20, 2025
++ End Date: Wednesday, February 26, 2025
++ Time: 9:00-15:00 (incl. breaks)
++ Location: Online (Zoom Link will be provided via e-mail and announced in Moodle)
++ Submission Project Work: March 31, 2025
 
 ## Final project
 + see markdown `final-project.md`
